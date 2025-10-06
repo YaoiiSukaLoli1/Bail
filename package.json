@@ -1,7 +1,7 @@
 {
-  "name": "@kyuuna/baileys",
+  "name": "@Yaoii/baileys",
   "version": "2.0.9",
-  "description": "@kyuuna/baileys",
+  "description": "@yaoii/Baileys",
   "keywords": [
     "baileys",
     "kyuuna",
@@ -13,12 +13,12 @@
     "multi-device",
     "kyuuna"
   ],
-  "homepage": "https://www.npmjs.com/package/@kyuu a/baileys",
+  "homepage": "",
   "repository": {
-    "url": "https://www.npmjs.com/package/@kyuuna/baileys"
+    "url": "https://github.com/yaoii-ara/Bailss"
   },
   "license": "MIT",
-  "author": "kyuuna",
+  "author": "YaoiiSukaAraa",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -37,8 +37,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo 'Kyuuna Baileys'",
-    "prepare": "echo 'Kyuuna Baileys'",
+    "prepack": "echo 'Yaoii Baileys'",
+    "prepare": "echo 'Yaoii Baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
