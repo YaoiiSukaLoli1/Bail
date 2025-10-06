@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "@kyuuna/baileys",
   "version": "2.0.9",
   "description": "@kyuuna/baileys",
@@ -96,6 +97,24 @@
   "peerDependenciesMeta": {
     "audio-decode": {
       "optional": true
+=======
+    "name": "@shennmine/baileys",
+    "version": "2.1.1",
+    "description": "WhatsApp API Modification By K",
+    "keywords": [
+        "whatsapp",
+        "laurine-wabot",
+        "baileys",
+        "whatsapp-web",
+        "whatsapp-chat",
+        "whatsapp-group",
+        "botwa",
+        "kyuurzy"
+    ],
+    "homepage": "https://www.npmjs.com/package/@shennmine/baileys",
+    "repository": {
+        "url": "https://www.npmjs.com/package/@shennmine/baileys"
+>>>>>>> 36f89a8 (Simpan perubahan lokal sebelum rebase)
     },
     "jimp": {
       "optional": true
